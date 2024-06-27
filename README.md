@@ -1,0 +1,2 @@
+# pathogenicity_calculator
+Pathogenicity calculator nucleotide sequence variants
